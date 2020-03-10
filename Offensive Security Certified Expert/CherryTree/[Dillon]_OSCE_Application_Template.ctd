@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="10" foreground="" is_bold="False" name="Application_Name (Version) - Template" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573706930.32" ts_lastsave="1580742569.79" unique_id="3">
+		<rich_text></rich_text>
+		<node custom_icon_id="47" foreground="" is_bold="False" name="Application_Parameter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573706930.32" ts_lastsave="1580760106.8" unique_id="20">
+			<rich_text></rich_text>
+			<node custom_icon_id="22" foreground="" is_bold="False" name="Exploitation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573707648.94" ts_lastsave="1580758241.75" unique_id="21">
+				<rich_text></rich_text>
+				<node custom_icon_id="21" foreground="" is_bold="False" name="Fuzzing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743079.55" ts_lastsave="1580758829.3" unique_id="22">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Fuzz Crash Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573707696.01" ts_lastsave="1580828049.61" unique_id="23">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Fuzz Crash Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827047.63" ts_lastsave="1580828044.57" unique_id="1">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Fuzz Crash Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758829.3" ts_lastsave="1580758840.85" unique_id="24">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Fuzz Crash Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743008.11" ts_lastsave="1580760060.33" unique_id="25">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Fuzz Python Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743151.86" ts_lastsave="1580760062.25" unique_id="26">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="19" foreground="" is_bold="False" name="Metasploit Pattern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580746920.52" ts_lastsave="1580757961.44" unique_id="27">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Metasploit Pattern Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580748236.74" ts_lastsave="1580758884.83" unique_id="28">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Metasploit Pattern Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827071.83" ts_lastsave="1580827086.03" unique_id="2">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Metasploit Pattern Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758876.79" ts_lastsave="1580758892.76" unique_id="29">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Metasploit Pattern Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580750639.72" ts_lastsave="1580760066.25" unique_id="30">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Metasploit Pattern Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580748231.1" ts_lastsave="1580748524.13" unique_id="31">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="40" foreground="" is_bold="False" name="Mona FindMSP" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580748520.88" ts_lastsave="1580757963.58" unique_id="32">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Mona FindMSP Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580748522.88" ts_lastsave="1580760070.32" unique_id="33">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="44" foreground="" is_bold="False" name="Mona FindMSP Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827088.14" ts_lastsave="1581618359.13" unique_id="4">
+						<rich_text></rich_text>
+						<node custom_icon_id="12" foreground="" is_bold="False" name="!mona findmsp" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1581618367.32" ts_lastsave="1581618370.22" unique_id="13">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="12" foreground="" is_bold="False" name="[seh] !mona findmsp" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1581618370.22" ts_lastsave="1581618394.17" unique_id="14">
+							<rich_text></rich_text>
+						</node>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Mona FindMSP Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758895.34" ts_lastsave="1580758923.68" unique_id="34">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Mona FindMSP Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758541.49" ts_lastsave="1580758543.29" unique_id="35">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Mona FindMSP Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580748524.13" ts_lastsave="1580748565.86" unique_id="36">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="41" foreground="" is_bold="False" name="Verify EIP/SEH" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743663.67" ts_lastsave="1580757965.72" unique_id="37">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Verify EIP/SEH Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743673.35" ts_lastsave="1580758931.95" unique_id="38">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Verify EIP/SEH Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827104.34" ts_lastsave="1580827117.81" unique_id="5">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Verify EIP/SEH Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758923.68" ts_lastsave="1580758945.52" unique_id="39">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Verify EIP/SEH Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758567.46" ts_lastsave="1580758929.37" unique_id="40">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Verify EIP/SEH Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580743677.67" ts_lastsave="1580758358.87" unique_id="41">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="11" foreground="" is_bold="False" name="Find Shellcode Execution" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758334.51" ts_lastsave="1580759500.07" unique_id="42">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Find Shellcode Execution Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758355.21" ts_lastsave="1580759810.4" unique_id="43">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="44" foreground="" is_bold="False" name="Find Shellcode Execution Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827120.6" ts_lastsave="1580828063.32" unique_id="6">
+						<rich_text></rich_text>
+						<node custom_icon_id="12" foreground="" is_bold="False" name="!mona jmp -r r32" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580828066.06" ts_lastsave="1580828067.4" unique_id="11">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="12" foreground="" is_bold="False" name="!mona seh" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580828084.49" ts_lastsave="1580828091.82" unique_id="12">
+							<rich_text></rich_text>
+						</node>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Find Shellcode Execution Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758949.14" ts_lastsave="1580759814.68" unique_id="44">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Find Shellcode Execution Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758600.78" ts_lastsave="1580759817.92" unique_id="45">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Find Shellcode Execution Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758358.87" ts_lastsave="1580759820.52" unique_id="46">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="39" foreground="" is_bold="False" name="Find Bad Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580758241.75" ts_lastsave="1580759753.38" unique_id="47">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Find Bad Characters Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759810.41" ts_lastsave="1580759886.13" unique_id="48">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Find Bad Characters Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827137.66" ts_lastsave="1580827148.94" unique_id="7">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Find Bad Characters Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759835.72" ts_lastsave="1580759894.06" unique_id="49">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Find Bad Characters Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759817.92" ts_lastsave="1580759899.27" unique_id="50">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Find Bad Characters Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759820.53" ts_lastsave="1580759903.48" unique_id="51">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="46" foreground="" is_bold="False" name="Generate Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759753.38" ts_lastsave="1580759803.83" unique_id="52">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Generate Payload Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759824.57" ts_lastsave="1580759911.54" unique_id="53">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Generate Payload Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827153.94" ts_lastsave="1580827165.62" unique_id="8">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Generate Payload Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759836.97" ts_lastsave="1580759915.74" unique_id="54">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Generate Payload Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759846.6" ts_lastsave="1580759920.41" unique_id="55">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Generate Payload Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759859.73" ts_lastsave="1580759924.4" unique_id="56">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="22" foreground="" is_bold="False" name="Encode Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759614.21" ts_lastsave="1580759614.22" unique_id="57">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Encode Payload Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759825.65" ts_lastsave="1580759932.37" unique_id="58">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Encode Payload Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827167.96" ts_lastsave="1580827180.98" unique_id="9">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Encode Payload Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759814.68" ts_lastsave="1580759935.63" unique_id="59">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Encode Payload Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759850.63" ts_lastsave="1580759946.66" unique_id="60">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Encode Payload Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759863.67" ts_lastsave="1580759957.09" unique_id="61">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="10" foreground="" is_bold="False" name="Craft Final Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759500.08" ts_lastsave="1580759569.51" unique_id="62">
+					<rich_text></rich_text>
+					<node custom_icon_id="18" foreground="" is_bold="False" name="Craft Final Payload Notes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759831.65" ts_lastsave="1580759965.42" unique_id="63">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="12" foreground="" is_bold="False" name="Craft Final Payload Output" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580827184.57" ts_lastsave="1580827196.06" unique_id="10">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="24" foreground="" is_bold="False" name="Craft Final Payload Command" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759843.21" ts_lastsave="1580759968.95" unique_id="64">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="43" foreground="" is_bold="False" name="Craft Final Payload Payload" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759855.77" ts_lastsave="1580759973.35" unique_id="65">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="23" foreground="" is_bold="False" name="Craft Final Payload Script" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580759867.27" ts_lastsave="1580759978.02" unique_id="66">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="43" foreground="" is_bold="False" name="Goodies" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573707736.4" ts_lastsave="1573730253.05" unique_id="67">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Proof\Flags\Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573730253.05" ts_lastsave="1573730253.05" unique_id="68">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="38" foreground="" is_bold="False" name="Rubber Duck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573707761.36" ts_lastsave="1580759748.74" unique_id="69">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>

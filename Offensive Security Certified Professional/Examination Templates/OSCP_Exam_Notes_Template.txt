@@ -1,0 +1,22 @@
+//Proctoring Site
+https://proctoring.offensive-security.com/student/login
+OSID: XXXXX
+Password: <MD5 Value>
+
+//Exam Guide
+https://support.offensive-security.com/oscp-exam-guide/
+
+//Proctoring FAQ
+https://support.offensive-security.com/proctoring-faq/
+
+//Proctoring Tool
+https://support.offensive-security.com/proctoring-tool-student-manual/
+
+//Exam Queries 
+https://support.offensive-security.com/chat.php
+
+
+# Take note of Section 3: Submission Instructions
+7z a OSCP-OS-XXXXX-Exam-Report.7z -pOS-XXXXX OSCP-OS-XXXXX-Exam-Report.pdf
+
+Student ID: OS-XXXXX
