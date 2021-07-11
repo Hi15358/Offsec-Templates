@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="10" foreground="" is_bold="False" name="ESSID (BSSID)" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587890553.85" ts_lastsave="1592118490.18" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="12" foreground="" is_bold="False" name="Reconnaissance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587892127.29" ts_lastsave="1592124258.31" unique_id="2">
+			<rich_text>airmon-ng start wlan0
+airodump-ng mon0
+
+</rich_text>
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+
+BSSID: 
+ESSID: 
+ENC: 
+AUTH: 
+Channel: 
+WPS: 
+WPS Version: 
+
+Connected Clients: </rich_text>
+			<encoded_png char_offset="40">iVBORw0KGgoAAAANSUhEUgAAAwsAAAFbCAIAAAAV1YUzAAAAA3NCSVQICAjb4U/gAAAFwUlEQVR4nO3YsQ3AMAwEsTi19p83/Q1gOwC5wKs8aD0AANebmZ1z784xAIBfUEgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAABKIQEAlEICAKg1M6dvAAC4ix8SAEApJACAUkgAAKWQAABKIQEAlEICACiFBABQCgkAoBQSAEApJACAUkgAAKWQAADqA7pFAv08K0cMAAAAAElFTkSuQmCC</encoded_png>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Airodump-ng (WPS)" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587892144.76" ts_lastsave="1587895151.64" unique_id="3">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="42" foreground="" is_bold="False" name="Spoofing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895139.3" ts_lastsave="1587895148.45" unique_id="18">
+			<rich_text></rich_text>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="MAC Spoofing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895151.64" ts_lastsave="1587895170.73" unique_id="19">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="22" foreground="" is_bold="False" name="Exploitation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587892221.28" ts_lastsave="1587895500.04" unique_id="4">
+			<rich_text></rich_text>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="Local Area Network" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895244.01" ts_lastsave="1587895245.77" unique_id="26">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="ARP Poisoning" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895251.67" ts_lastsave="1587895283.54" unique_id="27">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="ARP Poisoning + SSLStrip" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895283.54" ts_lastsave="1587895290.38" unique_id="30">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="ARP Poisoning + SSLSplit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895292.24" ts_lastsave="1587895306.18" unique_id="31">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="DHCP Server Spoofing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895258.91" ts_lastsave="1587895343.94" unique_id="28">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="VLAN Double Tagging Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895272.99" ts_lastsave="1587895456.35" unique_id="29">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="MAC Address Flooding" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895318.45" ts_lastsave="1587895353.33" unique_id="32">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Spanning Tree Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895355.29" ts_lastsave="1587895437.57" unique_id="33">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Dynamic Trunking Protocol Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895437.57" ts_lastsave="1587895648.93" unique_id="34">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="WEP" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587892280.3" ts_lastsave="1587895244.01" unique_id="5">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Fake Authentication Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895092.74" ts_lastsave="1587895251.67" unique_id="14">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="ARPReplay Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587893814.19" ts_lastsave="1587895469.86" unique_id="6">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Fragmentation Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587893816.02" ts_lastsave="1587893842.88" unique_id="7">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="ChopChop Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587893831.29" ts_lastsave="1587893839.44" unique_id="9">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Caffe Latte Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587893823.99" ts_lastsave="1587895176.02" unique_id="8">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Brute Force Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895176.02" ts_lastsave="1587895198.65" unique_id="21">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="WPA/WPA2" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895057.42" ts_lastsave="1587895105.12" unique_id="10">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Deauthentication Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895075.8" ts_lastsave="1587895092.74" unique_id="12">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Handshake Capture" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895064.7" ts_lastsave="1587895085.23" unique_id="11">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Aircrack-ng" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895085.23" ts_lastsave="1587895111.09" unique_id="13">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="KRACK" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895111.09" ts_lastsave="1587895118.25" unique_id="16">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Brute Force Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895188.98" ts_lastsave="1587895190.2" unique_id="22">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="WPA3" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895105.12" ts_lastsave="1587895108.53" unique_id="15">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Dragonblood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895126.16" ts_lastsave="1587895210.68" unique_id="17">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Brute Force Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895200.34" ts_lastsave="1587895202.15" unique_id="23">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="WPS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895157.35" ts_lastsave="1587895224.94" unique_id="20">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Bully" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895210.68" ts_lastsave="1587895213.15" unique_id="24">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Reaver" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895218.35" ts_lastsave="1587895516.1" unique_id="25">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="21" foreground="" is_bold="False" name="Evil Twin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895500.04" ts_lastsave="1587895506.37" unique_id="35">
+				<rich_text></rich_text>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Airgeddon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895516.1" ts_lastsave="1587895517.6" unique_id="36">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="18" foreground="" is_bold="False" name="Airbase-ng" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895542.21" ts_lastsave="1587895547.58" unique_id="37">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="43" foreground="" is_bold="False" name="Goodies" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895888.57" ts_lastsave="1587895929.54" unique_id="38">
+			<rich_text></rich_text>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Network Password" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895935.8" ts_lastsave="1587895955.53" unique_id="40">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="18" foreground="" is_bold="False" name="Proof\Flags\Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895948.89" ts_lastsave="1587895948.89" unique_id="41">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="38" foreground="" is_bold="False" name="Rubber Duck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1587895899.68" ts_lastsave="1587895966.35" unique_id="39">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>
